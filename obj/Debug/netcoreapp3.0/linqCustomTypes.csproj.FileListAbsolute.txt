@@ -1,0 +1,11 @@
+/Users/i9_editor/workspace/csharp/exercises/linqCustomTypes/bin/Debug/netcoreapp3.0/linqCustomTypes
+/Users/i9_editor/workspace/csharp/exercises/linqCustomTypes/bin/Debug/netcoreapp3.0/linqCustomTypes.deps.json
+/Users/i9_editor/workspace/csharp/exercises/linqCustomTypes/bin/Debug/netcoreapp3.0/linqCustomTypes.runtimeconfig.json
+/Users/i9_editor/workspace/csharp/exercises/linqCustomTypes/bin/Debug/netcoreapp3.0/linqCustomTypes.runtimeconfig.dev.json
+/Users/i9_editor/workspace/csharp/exercises/linqCustomTypes/bin/Debug/netcoreapp3.0/linqCustomTypes.dll
+/Users/i9_editor/workspace/csharp/exercises/linqCustomTypes/bin/Debug/netcoreapp3.0/linqCustomTypes.pdb
+/Users/i9_editor/workspace/csharp/exercises/linqCustomTypes/obj/Debug/netcoreapp3.0/linqCustomTypes.csprojAssemblyReference.cache
+/Users/i9_editor/workspace/csharp/exercises/linqCustomTypes/obj/Debug/netcoreapp3.0/linqCustomTypes.AssemblyInfoInputs.cache
+/Users/i9_editor/workspace/csharp/exercises/linqCustomTypes/obj/Debug/netcoreapp3.0/linqCustomTypes.AssemblyInfo.cs
+/Users/i9_editor/workspace/csharp/exercises/linqCustomTypes/obj/Debug/netcoreapp3.0/linqCustomTypes.dll
+/Users/i9_editor/workspace/csharp/exercises/linqCustomTypes/obj/Debug/netcoreapp3.0/linqCustomTypes.pdb
